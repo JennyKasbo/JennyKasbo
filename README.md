@@ -9,7 +9,7 @@ Frontend Developer passionate about crafting beautiful and functional web applic
 JavaScript • TypeScript • Java • Python • C++
 
 **🎨 Front-End Development**
-React.js • HTML5 • CSS3 • Tailwind • jQuery
+React.js • Next.js • HTML5 • CSS3 • Tailwind • jQuery
 
 **☁️ Backend as a Service (BaaS)**
 Netlify
